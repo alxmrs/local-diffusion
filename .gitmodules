@@ -1,0 +1,4 @@
+[submodule "mac-diffusion"]
+	path = mac-diffusion
+	url = https://github.com/bfirsh/stable-diffusion.git
+	branch = apple-silicon-mps-support

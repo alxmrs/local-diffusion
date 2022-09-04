@@ -1,0 +1,2 @@
+-e mac-diffusion/
+-r mac-diffusion/requirements.txt
